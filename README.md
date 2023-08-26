@@ -12,8 +12,8 @@ Check out my latest projects
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next Js](https://img.shields.io/badge/Next%20JS-black?style=flat-square&logo=next.js&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-Typescript-white?style=flat-square&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next Js](https://img.shields.io/badge/Next%20JS-black?style=flat-square&logo=next.js)
 
