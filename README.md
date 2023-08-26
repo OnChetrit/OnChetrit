@@ -7,8 +7,8 @@ Check out my latest projects
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ron-buchris-03b5a2219//)](https://www.linkedin.com/in/on-chetrit/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:onchetrit@gmail.com)](mailto:onchetrit@gmail.com)
 
 ## Technologies I've worked with:  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript%logoColor=white)
-![TypeScript](https://img.shields.io/badge/-Typescript-white?style=flat-square&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next Js](https://img.shields.io/badge/Next%20JS-black?style=flat-square&logo=next.js)
 
