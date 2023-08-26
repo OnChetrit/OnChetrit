@@ -15,7 +15,7 @@ Check out my latest projects
 ![Redux](https://img.shields.io/badge/-Redux-181717?style=flat-square&logo=redux)
 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![SCSS](https://img.shields.io/badge/-SCSS-purple?style=flat-square&logo=scss)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-black?style=flat-square&logo=Tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
