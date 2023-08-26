@@ -10,7 +10,7 @@ Check out my latest projects
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next Js](https://img.shields.io/badge/Next%20JS-black?style=flat-square&logo=next.js&logoColor=white)
+![Next Js](https://img.shields.io/badge/Next%20JS-white?style=flat-square&logo=next.js&logoColor=black)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)
