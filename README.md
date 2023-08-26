@@ -24,14 +24,12 @@ Check out my latest projects
 ![Apollo Graph QL](https://img.shields.io/badge/Apollo%20Graph%20QL-black?style=flat-square&logo=apollographql&logoColor=white)
 ![Magento](https://img.shields.io/badge/Magento%20PWA-black?style=flat-square&logo=magento)
 ![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery)
-![EJS](https://img.shields.io/badge/-EJS-black?style=flat-square&logo=ejs)
 
 ![Node JS](https://img.shields.io/badge/-Node%20JS-black?style=flat-square&logo=Node.js)
 ![Nest JS](https://img.shields.io/badge/Nest%20JS-black?style=flat-square&logo=nestjs&logoColor=E0234E)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-black?style=flat-square&logo=mongoose)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)
 
 <!--
 **OnChetrit/OnChetrit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
