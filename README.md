@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is On and I'm a Full-Stack / Front-End Web Developer. #opentowork
-Check out my latest project: [Wednesday - app](https://wednesday-app.herokuapp.com/) .
+Check out my latest projects
 
 ## Contact me:  
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ron-buchris-03b5a2219//)](https://www.linkedin.com/in/on-chetrit/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:onchetrit@gmail.com)](mailto:onchetrit@gmail.com)
