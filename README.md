@@ -9,8 +9,8 @@ Check out my latest projects
 ## Technologies I've worked with:  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoColor=black)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=black)
-![Next Js](https://img.shields.io/badge/Next%20JS-black?style=flat-square&logo=next.js&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next Js](https://img.shields.io/badge/Next%20JS-black?style=flat-square&logo=next.js&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-Typescript-white?style=flat-square&logo=typescript)
