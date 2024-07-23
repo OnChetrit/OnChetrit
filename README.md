@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is On Chetrit, I'm a Full-Stack / Front-End Web Developer. #opentowork
+My name is On Chetrit, I'm a Front-End Web Developer, specialized with Pure CSS web animations. #opentowork
 Check out my latest projects
 
 ## Contact me:  
