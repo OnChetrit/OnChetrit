@@ -17,9 +17,11 @@ You can check out my portfolio ![here](https://onchetrit.github.il/portfolio)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux&logoColor=764ABC)
 
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572B6)
+![GSAP](https://img.shields.io/badge/-GSAP-black?style=flat-square&logo=greensock&logoColor=ffffff)
 ![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=sass&logoColor=CC6699)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-black?style=flat-square&logo=Tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![Material UI](https://img.shields.io/badge/-Material%20UI-black?style=flat-square&logo=mui&logoColor=349aff)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=E34F26)
 ![Graphql](https://img.shields.io/badge/-Graphql-black?style=flat-square&logo=graphql&logoColor=E10098)
