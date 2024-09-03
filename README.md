@@ -18,6 +18,7 @@ You can check out my portfolio ![here](https://onchetrit.github.il/portfolio)
 
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572B6)
 ![GSAP](https://img.shields.io/badge/-GSAP-black?style=flat-square&logo=greensock&logoColor=ffffff)
+![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-black?style=flat-square&logo=framer&logoColor=ffffff)
 ![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=sass&logoColor=CC6699)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-black?style=flat-square&logo=Tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
