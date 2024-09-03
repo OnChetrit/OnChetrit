@@ -6,6 +6,8 @@ Check out my latest projects
 ## Contact me:  
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ron-buchris-03b5a2219//)](https://www.linkedin.com/in/on-chetrit/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:onchetrit@gmail.com)](mailto:onchetrit@gmail.com)
 
+
+You can check out my portfolio ![here](https://onchetrit.github.il/portfolio)
 ## Technologies I've worked with:  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)
