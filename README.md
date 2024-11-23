@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 My name is On Chetrit, I'm a Frontend Developer, specialized with Pure CSS web animations.
+
 Currently work at 'Just Eat Takeaway.com'
 
 ## Contact me:  
