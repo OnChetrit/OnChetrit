@@ -8,7 +8,7 @@ Currently work at 'Just Eat Takeaway.com'
 
 
 ## Check out my latest projects:
-You can check out my portfolio ![here](https://onchetrit.github.io/portfolio)
+You can check out my portfolio [here](https://onchetrit.github.io/portfolio)
 
 ## Technologies I've worked with:  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
