@@ -1,13 +1,15 @@
 ### Hi there 👋
 
-My name is On Chetrit, I'm a Front-End Web Developer, specialized with Pure CSS web animations. #opentowork
-Check out my latest projects
+My name is On Chetrit, I'm a Frontend Developer, specialized with Pure CSS web animations.
+Currently work at 'Just Eat Takeaway.com'
 
 ## Contact me:  
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ron-buchris-03b5a2219//)](https://www.linkedin.com/in/on-chetrit/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:onchetrit@gmail.com)](mailto:onchetrit@gmail.com)
 
 
-You can check out my portfolio ![here](https://onchetrit.github.il/portfolio)
+## Check out my latest projects:
+You can check out my portfolio ![here](https://onchetrit.github.io/portfolio)
+
 ## Technologies I've worked with:  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)
@@ -35,18 +37,3 @@ You can check out my portfolio ![here](https://onchetrit.github.il/portfolio)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-black?style=flat-square&logo=mongoose)
-
-<!--
-**OnChetrit/OnChetrit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
