@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **On Chetrit**, a Front-End Developer based in Tel Aviv. I build responsive web and mobile experiences with a particular love for polished UI, CSS animation, and product-minded interaction design.
+I'm **On Chetrit**, a Frontend Developer based in Tel Aviv. I build responsive web and mobile experiences with a particular love for polished UI, CSS animation, and product-minded interaction design.
 
 Currently working at Just Eat Takeaway.com.
 
