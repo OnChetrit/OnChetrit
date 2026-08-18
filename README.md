@@ -11,7 +11,7 @@ Currently working at Just Eat Takeaway.com.
 
 ## Current projects
 
-- [Wayfare](https://github.com/OnChetrit/Wayfare) — a map-first trip planner for itineraries, flights, stays, and expenses. [Live site](https://wayfare-one-wine.vercel.app)
+- [Wayfare](https://github.com/OnChetrit/Wayfare) — a map-first trip planner for itineraries, flights, stays, and expenses. [Live site](https://wayfare-journey.vercel.app)
 - [Pantros](https://github.com/OnChetrit/pantros) — a native-first Expo pantry manager with Supabase sync.
 - [VinylBox](https://github.com/OnChetrit/vinylbox) — a vinyl collection and wishlist manager powered by Supabase and Discogs.
 - [KitchenRoulette](https://github.com/OnChetrit/KitchenRoulette) — an Expo meal-suggestion and meal-tracking app.
